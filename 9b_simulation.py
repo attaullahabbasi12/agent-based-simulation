@@ -1,10 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
+
+
 Created on Fri May 17 20:27:06 2024
 
 @author: attaullahabbasi
 """
+
+##   https://github.com/attaullahabbasi12/agent-based-simulation/blob/main/9b_simulation.py 
 
 import random
 
